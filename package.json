@@ -1,0 +1,7 @@
+{
+  "name": "privacy-guardian-app", 
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && npm install --legacy-peer-deps --force && npm run build"
+  }
+}
